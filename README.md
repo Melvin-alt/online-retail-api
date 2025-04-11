@@ -12,6 +12,10 @@ Static frontend served via Express
 
 Pagination support for product listing
 
+
+
+
+
 📁 Project Structure
 pgsql
 Copy code
@@ -21,6 +25,9 @@ Copy code
 ├── package.json           
 🔧 Technologies Used
 Node.js with Express
+
+
+
 
 PostgreSQL (via pg library)
 
